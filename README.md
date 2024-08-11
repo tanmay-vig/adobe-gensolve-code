@@ -25,7 +25,7 @@ Core Functionalities
 5. Exporting Results:
    Once the paths have been processed, they can be exported as SVG files using the polylines2svg function. This function converts the processed paths into scalable vector graphics, which are useful for further analysis or for visual representation in design tools.
 </div>
-<b>Some of the Outputs are: </b>
+<h2>Some of the Outputs are: </h2>
 <img src="./readme-assets/output1.png">
 <img src="./readme-assets/output2.png">
 <img src="./readme-assets/output3.png">
