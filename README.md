@@ -32,5 +32,5 @@ Core Functionalities
 <img src="./readme-assets/output4.png">
 
 <hr> 
-<a href="https://github.com/tanmay-vig" >Tanmay Vig</a>
+<a href="https://github.com/tanmay-vig" >Tanmay Vig</a> <br>
 <a href="https://github.com/sanatwalia896">Sanat Walia</a> 
